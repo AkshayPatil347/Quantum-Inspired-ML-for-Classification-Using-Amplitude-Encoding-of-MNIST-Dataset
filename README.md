@@ -1,0 +1,1 @@
+# Quantum-Inspired-ML-for-Classification-Using-Amplitude-Encoding-of-MNIST-Dataset
